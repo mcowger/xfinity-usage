@@ -5,6 +5,7 @@
   "documentation": "https://github.com/robert-alfaro/xfinity-usage",
   "requirements": [],
   "dependencies": [],
+  "version": "0.0.0",
   "codeowners": [
     "@ralfaro"
   ]
